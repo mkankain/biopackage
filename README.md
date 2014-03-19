@@ -1,6 +1,6 @@
 biopackage
 ==========
 
-biosoftware installation scripts
+biosoftware installation scripts. Some changes
 
 For testing purposes only.
